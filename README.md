@@ -1,0 +1,1 @@
+Nord colorscheme for neovim.
