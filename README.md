@@ -11,7 +11,7 @@ Enhance your Neovim experience with the NORD color scheme implemented in Lua! Th
 
 ## Installation
 
-To use the NORD color scheme, simply follow the installation instructions provided in the [documentation](https://chat.openai.com/c/47942856-8711-4da5-9000-9c8a4e186077#). Whether you prefer manual installation or using a plugin manager like vim-plug or packer, getting started is a breeze.
+To use the NORD color scheme, simply follow the installation instructions provided in the documentation. Whether you prefer manual installation or using a plugin manager like vim-plug or packer, getting started is a breeze.
 
 ## Usage
 
